@@ -1,0 +1,12 @@
+{
+  "name": "marvyn",
+  "owner": { "name": "Marvyn", "email": "dev@marvyn.io" },
+  "metadata": { "description": "Marvyn plugins for Claude", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "marvyn",
+      "source": "./",
+      "description": "Your AI marketing team in Claude: ads, SEO, AI search visibility, store, analytics and social, read and acted on through Marvyn, with every change approved by you."
+    }
+  ]
+}

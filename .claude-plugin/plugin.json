@@ -1,0 +1,16 @@
+{
+  "name": "marvyn",
+  "displayName": "Marvyn",
+  "version": "1.0.0",
+  "description": "Your AI marketing team in Claude. Read and act on your ads, SEO, AI search visibility, store, analytics, social and site behaviour; build ad campaigns, draft SEO articles and fix tracking, with every change approved by you in Marvyn.",
+  "author": {
+    "name": "Marvyn",
+    "email": "dev@marvyn.io",
+    "url": "https://www.marvyn.io"
+  },
+  "homepage": "https://www.marvyn.io",
+  "privacyPolicyUrl": "https://www.marvyn.io/privacy-policy#ai-assistants",
+  "repository": "https://github.com/elevensquarelabs-prog/marvyn-claude-plugin",
+  "license": "MIT",
+  "keywords": ["marketing", "ads", "seo", "ai-visibility", "shopify", "google-analytics", "search-console", "meta-ads", "google-ads", "reddit-ads", "analytics"]
+}
